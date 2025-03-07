@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2313d6bb-a8a1-4f1c-826f-33847ac632a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/movieproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/movieproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/movieproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/movieproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/movieproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/movieproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieproject/restapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drf_view_Set_class/songbox/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drf_view_Set_class/songbox/api/templates/hwllo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drf_view_Set_class/songbox/api/urls.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tzrumWjNlmxgEerHP4gqijmr3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2313d6bb-a8a1-4f1c-826f-33847ac632a2" name="Changes" comment="" />
+      <created>1741365970334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741365970334</updated>
+    </task>
+    <servers />
+  </component>
+</project>
