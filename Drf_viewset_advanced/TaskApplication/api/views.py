@@ -1,10 +1,15 @@
 from django.shortcuts import render
 
 from rest_framework import status
+from rest_framework.views import APIView
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from api.models import Task
-from api.serializers import TaskSerializer
+from api.serializers import TaskSerializer,UserSerializer
+
+
+from api.serializers import UserSerializer
+
 
 class TaskViewSetView(ViewSet):
     def list(self,request,*args,**kwargs):
@@ -49,5 +54,13 @@ class TaskViewSetView(ViewSet):
         except:
             return Response(data={"message":"resorce not found"},status=status.HTTP_404_NOT_FOUND)
         
+class UserView(APIView):
+    def post(self,request,*args,**kwargs):
         
+        serializer_instance=UserSerializer(data=request.data)
+        if serializer_instance.is_valid():
+            serializer_instance.save()
+            return Response(data=serializer_instance.data,status=status.HTTP_200_OK)
+        return Response(data=serializer_instance.errors,status=status.HTTP_400_BAD_REQUEST)
+
         
