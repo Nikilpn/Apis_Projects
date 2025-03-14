@@ -5,12 +5,13 @@ from django.contrib.auth.models import User
 from rest_framework import serializers
 
 class TaskSerializer(serializers.ModelSerializer):
+    user_object=serializers.StringRelatedField()
     class Meta:
         model=Task
 
         fields="__all__"
 
-        read_only_fields=["id","assigned_date"]
+        read_only_fields=["id","assigned_date","user_object"]
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model=User

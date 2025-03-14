@@ -6,6 +6,6 @@ router=DefaultRouter()
 router.register('api/v1/tasks',views.TaskViewSetView,basename="tasks")
 
 urlpatterns = [
-    path('api/v1/users/',views.UserView.as_view())
+    path('api/v1/register/',views.UserView.as_view())
 
 ]+router.urls
